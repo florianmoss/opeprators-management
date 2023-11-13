@@ -1,0 +1,87 @@
+[
+    {
+      "name": "Advanced Cluster Management for Kubernetes",
+      "next_release": "2.9.0",
+      "next_release_date": "2023-11-09"
+    },
+    {
+      "name": "Multi-Cluster Engine",
+      "next_release": "2.4.0",
+      "next_release_date": "2023-11-09"
+    },
+    {
+        "name": "Gatekeeper Operator",
+        "next_release": "0.2.7",
+        "next_release_date": "2023-11-09"
+    },
+    {
+        "name": "Ansible Automation Platform",
+        "next_release": "2.5.0",
+        "next_release_date": "2024-03-01"
+    },
+    {
+        "name": "cert-manager operator for Red Hat OpenShift",
+        "next_release": "1.13.0",
+        "next_release_date": "2024-02-01"
+    },
+    {
+        "name": "Red Hat CodeReady Workspaces",
+        "next_release": "3.9",
+        "next_release_date": "2023-10-20"
+    },
+    {
+        "name": "Kubernetes NMState Operator",
+        "next_release": "4.14.0",
+        "next_release_date": "2023-10-31"
+    },
+    {
+        "name": "Metal LB",
+        "next_release": "4.12.0",
+        "next_release_date": "2023-01-17"
+    },
+    {
+      "name": "Red Hat OpenShift Logging",
+      "next_release": "5.8",
+      "next_release_date": "2023-11-02"
+    },
+    {
+        "name": "Migration Toolkit for Applications",
+        "next_release": "7.0",
+        "next_release_date": "2023-12-31"
+    },
+    {
+        "name": "Red Hat Service Interconnect",
+        "next_release": "1.5",
+        "next_release_date": "2024-03-30"
+    },
+    {
+      "name": "Red Hat OpenShift Service Mesh",
+      "next_release": "2.5",
+      "next_release_date": "2023-11-20"
+    },
+    {
+      "name": "OpenShift Elasticsearch Operator",
+      "next_release": "5.8",
+      "next_release_date": "2023-11-02"
+    },
+    {
+      "name": "Kiali Operator",
+      "next_release": "2.5",
+      "next_release_date": "2023-11-20"
+    },
+    {
+      "name": "Red Hat OpenShift distributed tracing platform",
+      "next_release": "2.9",
+      "next_release_date": "2023-11-02"
+    },
+    {
+      "name": "Red Hat OpenShift Pipelines",
+      "next_release": "1.13",
+      "next_release_date": "2024-02-30"
+    },
+    {
+      "name": "Red Hat OpenShift Serverless",
+      "next_release": "1.30",
+      "next_release_date": "2024-02-30"
+    }
+  ]

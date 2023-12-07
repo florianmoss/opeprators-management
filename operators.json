@@ -47,17 +47,17 @@
     {
         "name": "Migration Toolkit for Applications",
         "next_release": "7.0",
-        "next_release_date": "2023-12-31"
+        "next_release_date": "2024-02-20"
     },
     {
         "name": "Red Hat Service Interconnect",
         "next_release": "1.5",
-        "next_release_date": "2024-03-30"
+        "next_release_date": "2024-07-30"
     },
     {
       "name": "Red Hat OpenShift Service Mesh",
       "next_release": "2.5",
-      "next_release_date": "2023-11-20"
+      "next_release_date": "2024-01-20"
     },
     {
       "name": "OpenShift Elasticsearch Operator",
@@ -67,7 +67,7 @@
     {
       "name": "Kiali Operator",
       "next_release": "2.5",
-      "next_release_date": "2023-11-20"
+      "next_release_date": "2024-01-20"
     },
     {
       "name": "Red Hat OpenShift distributed tracing platform",
@@ -77,7 +77,7 @@
     {
       "name": "Red Hat OpenShift Pipelines",
       "next_release": "1.13",
-      "next_release_date": "2024-02-30"
+      "next_release_date": "2023-11-30"
     },
     {
       "name": "Red Hat OpenShift Serverless",
